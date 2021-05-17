@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-redoc-express",
+  "version": "1.0.0",
+  "description": "API Documentation with Swagger and Redoc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadinputh/nodejs-redoc-express.git"
+  },
+  "keywords": [
+    "swagger",
+    "redoc",
+    "apidocs",
+    "documentation"
+  ],
+  "author": "POUTH Nadin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadinputh/nodejs-redoc-express/issues"
+  },
+  "homepage": "https://github.com/nadinputh/nodejs-redoc-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redoc-express": "^1.0.0"
+  }
+}
